@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="main.txt">
+    <Text Include="steps.txt">
       <Filter>Steps</Filter>
     </Text>
   </ItemGroup>
