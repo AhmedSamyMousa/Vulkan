@@ -1,12 +1,12 @@
-|**************************************************************************|
-|Function	              |   Purpose									   |
-|initWindow	              |   Initializes GLFW and creates a Vulkan window.|
-|createInstance	          |   Creates the Vulkan instance.				   |
-|setupDebugMessenger	  |   Sets up Vulkan validation debugging.	       |
-|createSurface	          |   Creates a surface for rendering.			   |
-|pickPhysicalDevice	      |   Chooses a suitable GPU for rendering.		   |
-|createLogicalDevice	  |   Creates a logical interface to the GPU.      |
-|createSwapChain	      |   Configures the swap chain for rendering.     |
-|mainLoop	              |   Handles the main event loop.				   |
-|cleanup	              |   Frees all Vulkan and GLFW resources.	       |
-|**************************************************************************|
+|**************************************************************************
+|Function->	                 Purpose									   
+|initWindow->	                 Initializes GLFW and creates a Vulkan window.
+|createInstance->	             Creates the Vulkan instance.				   
+|setupDebugMessenger->	     Sets up Vulkan validation debugging.	       
+|createSurface->	             Creates a surface for rendering.			   
+|pickPhysicalDevice->	         Chooses a suitable GPU for rendering.		   
+|createLogicalDevice->	     Creates a logical interface to the GPU.      
+|createSwapChain->	         Configures the swap chain for rendering.     
+|mainLoop->	                 Handles the main event loop.				   
+|cleanup->	                 Frees all Vulkan and GLFW resources.	       
+|**************************************************************************
